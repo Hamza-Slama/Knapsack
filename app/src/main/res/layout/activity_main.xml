@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroud_ciel"
+    tools:context="moduleproject.exemple.com.knapsackgame.MainActivity">
+
+    <RelativeLayout
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+<Button
+    android:id="@+id/btnJouer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Jouer"
+    android:textColor="#FFF"
+    android:textSize="30dp"
+    android:layout_centerHorizontal="true"
+    android:layout_margin="15dp"
+    android:background="@android:color/transparent"
+    />
+        <Button
+            android:id="@+id/btnScore"
+            android:layout_below="@+id/btnJouer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score"
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="15dp"
+            android:background="@android:color/transparent"
+            />
+        <Button
+            android:layout_margin="15dp"
+            android:layout_below="@+id/btnScore"
+            android:id="@+id/btnAide"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aide"
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A proos de nous "
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_below="@+id/btnAide"
+            android:background="@color/cardview_shadow_end_color"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

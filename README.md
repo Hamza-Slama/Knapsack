@@ -7,9 +7,10 @@ minimum des poids des objets et le maximum des sommes des poids des objets (au h
 Il faut donc remplir ce sac avec la plus haute valeur possible sans dépasser la capacité donnée.
 
 ![](hhttps://raw.githubusercontent.com/hamzaslama/xonan-mobile/master/1.png) 
-<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/1.png" />
-<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/2.png" />
-<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/3.png" />
-<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/4.png" />
-<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/5.png" />
-<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/6.png" />
+<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/1.png" height="542" width="412"/>
+<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/2.png" height="542" width="412"/>
+<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/3.png" height="542" width="412"/>
+<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/4.png" height="542" width="412"/>
+<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/5.png" height="542" width="412"/>
+<img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/6.png" height="542" width="412"/>
+

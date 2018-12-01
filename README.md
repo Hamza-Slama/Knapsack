@@ -6,6 +6,8 @@ Pour chaque essai, on donne au hasard :
 minimum des poids des objets et le maximum des sommes des poids des objets (au hassard).
 Il faut donc remplir ce sac avec la plus haute valeur possible sans dépasser la capacité donnée.
 
+Demo : https://www.youtube.com/watch?v=pcP3CwOXOp8
+
 ![](hhttps://raw.githubusercontent.com/hamzaslama/xonan-mobile/master/1.png) 
 <img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/1.png" height="542" width="412"/>
 <img src="https://raw.githubusercontent.com/hamzaslama/Knapsack/master/2.png" height="542" width="412"/>
